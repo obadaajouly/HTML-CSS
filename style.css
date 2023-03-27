@@ -1,0 +1,34 @@
+
+
+
+header {
+    background-color: antiquewhite;
+}
+
+header img {
+    width: 300px;
+  height: 300px;
+  margin: 20px;
+  display: inline-block;
+}
+
+header h3 {
+    display: inline-block;
+}
+
+aside {
+    background-color: aqua;
+}
+
+.aboutme {
+    background-color: aquamarine;
+}
+
+.education{
+    background-color: azure;
+}
+
+footer{
+    background-color: black;
+    -webkit-text-fill-color: white;
+}
